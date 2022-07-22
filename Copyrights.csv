@@ -1,4 +1,4 @@
-name,nameNaturalOrder,nameType,birthDateStart,birthDateEnd,birthPlace,deathDateStart,deathDateEnd,deathPlace,source,publicDomainYear,legalStatus,creativeCommons,rightsStatements
+_id,nameNaturalOrder,nameType,birthDateStart,birthDateEnd,birthPlace,deathDateStart,deathDateEnd,deathPlace,source,publicDomainYear,legalStatus,creativeCommons,rightsStatements
 A. Feist & Co.,A. Feist & Co.,creator,1850,1850,Solingen,1969,1969,,Musea Brugge,2040,Auteursrechtplichtig / © SABAM,,http://rightsstatements.org/vocab/InC/1.0/
 A.S.L.K.,A.S.L.K.,creator,1865,,,1998,,,Musea Brugge / MSK Gent / Mu.ZEE,2069,Auteursrechtplichtig / © SABAM,,http://rightsstatements.org/vocab/InC/1.0/
 "Aaltonen, Wäinö",Wäinö Aaltonen,person,1894,1894,,1966,1966,,MSK Gent,2037,Auteursrechtplichtig / © SABAM,,http://rightsstatements.org/vocab/InC/1.0/
